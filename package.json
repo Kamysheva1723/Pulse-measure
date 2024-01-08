@@ -1,0 +1,15 @@
+{
+  "urls": [
+    ["main_project.py", "http://localhost:8000/main_project.py"],
+    ["lib/Adc.py", "http://localhost:8000/pico-lib/Adc.py"]
+    ["lib/filefifo.py", "http://localhost:8000/pico-lib/filefifo.py"],	
+    ["lib/fifo.py", "http://localhost:8000/pico-lib/fifo.py"],
+    ["lib/piotimer.py", "http://localhost:8000/pico-lib/piotimer.py"],
+    ["lib/ssd1306.mpy", "http://localhost:8000/pico-lib/ssd1306.mpy"],
+    ["lib/urequests.mpy", "http://localhost:8000/pico-lib/urequests.mpy"],
+    ["lib/umqtt/simple.mpy", "http://localhost:8000/pico-lib/umqtt/simple.mpy"]
+  ],
+  "deps": [
+  ],
+  "version": "1.0"
+}
